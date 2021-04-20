@@ -1,6 +1,6 @@
 # Desafio Node.js
 
-Read this in other language: [English](https://github.com/cvalb/challenge-nodejs/blob/main/README.md), [Portuguese](https://github.com/cvalb/challenge-nodejs/blob/main/README.pt.md)
+Read this in other language: [English](https://github.com/cvalb/challenge-nodejs/blob/master/README.md), [Portuguese](https://github.com/cvalb/challenge-nodejs/blob/master/README.pt.md)
 
 ## Descrição
 
