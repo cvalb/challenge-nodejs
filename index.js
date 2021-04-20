@@ -34,11 +34,11 @@ app.get('/comentarios', (req, res) => {
     axios({
         url: url + '/busca_comentarios'})
         .then((response) => {
-            //if(user === undefined){
-            //    res.redirect('/cadastro')
-            //} else {
+            if(user === undefined){
+                res.redirect('/cadastro')
+            } else {
                 res.render('comentarios', {comments: response.data })
-            //}
+            }
         })
         .catch(function (error) {
             console.log(error);
