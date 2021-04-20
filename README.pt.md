@@ -12,9 +12,9 @@ Este projeto consiste em um servidor Node.js + Express que se conecta a uma API 
 
         npm install
 
-2. Altere o valor API_URL pela url base em .configs/apiConfig.js linha 2
+2. Altere o valor da url pela url base em .configs/apiConfig.js linha 2
 
-        API_URL = "http://API_URL"
+        const url = "http://API_URL"
 
 ## Objetivo
 

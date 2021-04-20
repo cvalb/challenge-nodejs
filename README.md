@@ -12,9 +12,9 @@ This project consists of a Node.js + Express server that connects to a private A
 
         npm install
 
-2. Change the API_URL for the base url @ .configs/apiConfig.js line 2
+2. Change the url value for the base url @ .configs/apiConfig.js line 2
 
-        API_URL = "http://API_URL"
+        const url = "http://API_URL"
 
 ## Objective
 
