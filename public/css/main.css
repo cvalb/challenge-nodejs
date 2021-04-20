@@ -1,0 +1,8 @@
+.wrapper{
+    align-content: center;
+    justify-content: center;
+    max-width: 500px;
+    width: 90%;
+    padding: 20px 30px;
+    margin: 15px 0;
+}
